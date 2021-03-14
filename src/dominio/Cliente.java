@@ -10,6 +10,7 @@ public class Cliente implements Serializable {
 
     public Cliente(){
         
+	//holaquetal
     }
     public Cliente(String nombre, String apellidos, String nif){
         this();
